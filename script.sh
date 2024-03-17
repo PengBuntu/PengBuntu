@@ -16,6 +16,7 @@ cd /usr/share/ubiquity-slideshow/slides
 # (Upload/Replace Slides With Those From Ubiquity-Slides Repo)
 
 # Fix Plymouth Screens
+cd ~
 # (Upload Cantarell Font)
 mv Cantarell-Regular.ttf /usr/share/fonts
 ls -la /boot
