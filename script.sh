@@ -1,4 +1,4 @@
-# Update System And Add Required APT Repositories
+# Update And Add Required APT Repositories
 apt update
 add-apt-repository universe
 
