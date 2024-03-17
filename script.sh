@@ -5,11 +5,11 @@ apt update
 add-apt-repository universe
 
 # Install Cinnamon DE
-apt install cinnamon
+apt install cinnamon -y
 update-alternatives --config x-session-manager
 
 # Install LightDM
-apt install lightdm
+apt install lightdm -y
 
 # Fix Ubiquity
 cd /usr/share/ubiquity-slideshow/slides
