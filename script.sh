@@ -1,7 +1,5 @@
 # Update System And Add Required APT Repositories
 apt update
-apt upgrade -y
-apt update
 add-apt-repository universe
 
 # Install Cinnamon DE
